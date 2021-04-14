@@ -9,3 +9,5 @@
 ### in-game pictures
 
 ![1](/FlappyBird/img/ingame_img1.png "mainmenu")
+
+![1](/FlappyBird/img/ingame_img2.png "mainmenu")
