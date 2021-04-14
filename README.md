@@ -3,5 +3,5 @@
 
 
 
-## Main-Menu Pictures
+### Main-Menu Pictures
 ![1](FlappyBird/FlappyBird/img/mainmenu.png "mainmenu")
